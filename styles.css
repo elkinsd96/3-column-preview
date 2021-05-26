@@ -65,16 +65,18 @@
   border: 1px solid hsla(0, 0%, 100%, 0.75);
   border-width: 2px;
   border-radius: 20px;
-  cursor: pointer;
 }
-.sedan .btn {
+.btn a {
+  text-decoration: none;
+}
+.sedan .btn a {
   color: hsl(31, 77%, 52%);
 }
-.suv .btn {
+.suv .btn a {
   color: hsl(184, 100%, 22%);
   margin-top: 91px;
 }
-.luxury .btn {
+.luxury .btn a {
   color: hsl(179, 100%, 13%);
   margin-top: 89px;
 }
