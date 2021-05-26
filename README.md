@@ -36,6 +36,5 @@ There is room for a lot more improvement for me in such areas as media attribute
 
 ## Author
 - Frontend Mentor - [@elkinsd96] https://www.frontendmentor.io/profile/elkinsd96
-- GitHub: https://github.com/elkinsd96
 - LinkedIn: https://www.linkedin.com/in/daniel-elkins-166896153/
 
